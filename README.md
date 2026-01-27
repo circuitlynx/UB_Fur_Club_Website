@@ -1,2 +1,2 @@
-# Uni_Fur_Club_Website
-A website for the University Fur Club group.
+# UB Fur Club Website
+A website for the UB Fur Club group.
