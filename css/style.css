@@ -1,9 +1,10 @@
+@import url("../fonts/Alpino_Complete/Fonts/WEB/css/alpino.css");
 body {
     height: 100%;
     padding: 0;
     background-color: whitesmoke;
     color: black;
-    font-family: verdana, serif;
+    font-family: Alpino-Regular;
     justify-content: center;
     display: flex;
     flex-direction: column;
